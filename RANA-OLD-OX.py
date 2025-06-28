@@ -266,7 +266,7 @@ pcp = []
 id = []
 tokenku = []
 
-class ASIMCracker:
+class RANACracker:
     def __init__(self):
         self.oks = []
         self.cps = []
